@@ -66,7 +66,7 @@ brew install tesseract
 
 ## 🧠 What is GROQ?
 
-**GROQ (Generative Reasoning Over Quantities)** is an LLM API designed for high-performance structured reasoning. It's particularly well-suited for:
+**GROQ** is an LLM API designed for high-performance structured reasoning. It's particularly well-suited for:
 
 * Tabular data extraction
 * Structured text reasoning (e.g. invoices, forms)
@@ -201,6 +201,6 @@ Contributions are welcome! Submit a PR or open an issue.
 
 ## 📜 License
 
-MIT License © 2025 \Muhammed Swafuvan
+MIT License © 2025 Muhammed Swafuvan
 
 ---

@@ -1,0 +1,10 @@
+dotenv
+requests
+PyMuPDF
+fastapi
+uvicorn
+python-multipart
+pytesseract
+pdf2image
+pillow
+opencv-python-headless
